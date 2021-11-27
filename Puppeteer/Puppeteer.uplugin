@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Puppeteer",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Victor Yuen",
+	"CreatedByURL": "https://www.youtube.com/channel/UCACMKr6gBlbE4naBqacn6Yw/featured",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

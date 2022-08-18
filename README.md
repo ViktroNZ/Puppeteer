@@ -18,3 +18,5 @@ This was built as a short experimental side project.
 7. Open up the LiveLink Face App on your phone, get the Live Link subject name (it's at the bottom of the iPhone app screen) and type that into the `Live Link Subject` Name field of the `Puppeteer_Actor`
 8. With the LiveLink Face App running on your phone, press Play. Hopefully it should all be working!
 9. Press 1 to toggle the Puppeteer UI
+
+18/8/2022 - A lot of people have been having issue with opening the interface with the "1" key. A workaround is to replace the Key Event with Begin Play, though it's a pretty bad workaround as you can't disable the UI easily afterwards. I did some Googling and some people fixed this issue by setting "Auto Receive Input" to "Player 0". You can do this by opening the User_BP and finding that option in the Details pane (on the right by default).

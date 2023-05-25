@@ -1,5 +1,5 @@
 # Puppeteer
-A UE5 plugin for improving the Metahuman ARKit face tracking.
+A UE5 plugin for improving the Metahuman ARKit face tracking. 
 
 It includes a UI which allows you to set the Minimum and Maximum range of a given ARKit input. It also includes a small amount of smoothing to minimise noise and makes inferences from ARKit blendshapes to drive additional Metahuman rig controls.
 
